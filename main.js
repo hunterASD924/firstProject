@@ -82,3 +82,6 @@ const keys = Object.keys(cats[0])
 for (let i = 0; i<keys.length; i++){
     console.log ("the key is",keys[i], "the value is ", cats[0][`${keys[i]}`])
 }
+
+
+console.log ("git version control tutorial")
